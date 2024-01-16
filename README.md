@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jewelsink
+- 👋 Hi, I’m Julian B
 - 👀 I’m interested in ... Cybersecurity specitfy SOC Analyst role.
 - 🌱 I’m currently learning ... Cybersecurity at Hennepin Techical College, and lab trainings on LetsDefend.  
 - 💞️ I’m looking to collaborate on ... making some Soc related projects
